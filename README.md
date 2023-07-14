@@ -7,6 +7,14 @@ Various PDF files for testing PDF readers.
 Files
 -----
 
+### balloon\_a1b\_jp2k.pdf
+
+Fairly normal file (not encrypted, not linearized, no object streams, normal
+xref). Contains two `/Filter [/JPXDecode]` images.
+
+From
+<http://opf-labs.org/format-corpus/pdfCabinetOfHorrors/balloon_a1b_jp2k.pdf>.
+
 ### dummy.pdf
 
 - PDF 1.4
