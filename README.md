@@ -15,6 +15,16 @@ xref). Contains two `/Filter [/JPXDecode]` images.
 From
 <http://opf-labs.org/format-corpus/pdfCabinetOfHorrors/balloon_a1b_jp2k.pdf>.
 
+### CIPA\_DC-007-2021\_E.pdf
+
+- PDF 1.7
+- Encrypted (V5, R6, AESV3 (!))
+- xref stream
+- obj streams
+- not linearized
+
+From <https://cipa.jp/std/documents/download_e.html?CIPA_DC-007-2021_E>.
+
 ### dummy.pdf
 
 - PDF 1.4
