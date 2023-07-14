@@ -42,3 +42,11 @@ Fairly complete edge-case workout (encrypted, linearized, obj stream, xref
 stream, hybrid)!
 
 From <https://www.orimi.com/pdf-test.pdf>.
+
+### veraPDFHiRes.pdf
+
+- Linearized
+- Contains a `/Filter/DCTDecode` image
+
+From
+<http://opf-labs.org/format-corpus/pdfCabinetOfHorrors/veraPDFHiRes.pdf>.
