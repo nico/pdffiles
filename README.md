@@ -19,3 +19,18 @@ Files
   incremental updates; regular `xref`, `trailer`, `startxref`, `%%EOF`.
 
 From <https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf>.
+
+### pdf-test.pdf
+
+- PDF 1.6
+- Linearized
+- Encrypted (V2, R3, Length 128)
+- Object streams
+- Contains a bunch of bitmaps, partially in object streams
+- Hybrid-reference file with `xref`, but first `trailer` also has a `/XRefStm`
+  key pointing at a `/XRef` stream
+
+Fairly complete edge-case workout (encrypted, linearized, obj stream, xref
+stream, hybrid)!
+
+From <https://www.orimi.com/pdf-test.pdf>.
