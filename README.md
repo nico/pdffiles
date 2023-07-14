@@ -28,6 +28,18 @@ From
 
 From <https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf>.
 
+### encryption\_nocopy.pdf
+
+- PDF 1.7
+- Encrypted (V4, R4, AESV2)
+- Linearized
+- XRef stream only (not hybrid)
+- Object streams
+- `/Columns` and `Predictor 12` in `/DecodeParams` of a `/FlateDecode` stream
+
+From
+<http://opf-labs.org/format-corpus/pdfCabinetOfHorrors/encryption_nocopy.pdf>.
+
 ### pdf-test.pdf
 
 - PDF 1.6
@@ -48,5 +60,4 @@ From <https://www.orimi.com/pdf-test.pdf>.
 - Linearized
 - Contains a `/Filter/DCTDecode` image
 
-From
-<http://opf-labs.org/format-corpus/pdfCabinetOfHorrors/veraPDFHiRes.pdf>.
+From <http://opf-labs.org/format-corpus/pdfCabinetOfHorrors/veraPDFHiRes.pdf>.
