@@ -7,6 +7,13 @@ Various PDF files for testing PDF readers.
 Files
 -----
 
+### 7535-7pt.pdf
+
+- Contains images with `/Filter` `/JBIG2Decode`
+- Also with `/Filter` `[ /FlateDecode /DCTDecode ]` (!)
+
+From <https://www.dkriesel.com/_media/blog/2013/7535-7pt.pdf>
+
 ### balloon\_a1b\_jp2k.pdf
 
 Fairly normal file (not encrypted, not linearized, no object streams, normal
