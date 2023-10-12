@@ -20,6 +20,13 @@ From <https://www.researchgate.net/publication/270511438_The_CIE_1997_Colour_App
 
 From <https://www.dkriesel.com/_media/blog/2013/7535-7pt.pdf>
 
+### Bakke2010a.pdf
+
+Contains a float defaultWidthX in an embedded CFF font.
+
+From
+<http://english.hig.no/content/download/28956/331069/file/Bakke2010a.pdf>.
+
 ### balloon\_a1b\_jp2k.pdf
 
 Fairly normal file (not encrypted, not linearized, no object streams, normal
