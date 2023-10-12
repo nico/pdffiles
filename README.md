@@ -7,6 +7,12 @@ Various PDF files for testing PDF readers.
 Files
 -----
 
+### 2ThestructureoftheCIE1997ColourAppearanceModelCIECAM97s.pdf
+
+From <https://www.researchgate.net/publication/270511438_The_CIE_1997_Colour_Appearance_Model_CIECAM97s>
+
+- Contains several `/Filter [/ASCII85Decode /LZWDecode]`
+
 ### 7535-7pt.pdf
 
 - Contains images with `/Filter` `/JBIG2Decode`
