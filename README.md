@@ -100,6 +100,12 @@ stream, hybrid)!
 
 From <https://www.orimi.com/pdf-test.pdf>.
 
+### Problemset.pdf
+
+- Contains type1 font programs without a `Subrs` array
+
+From my hard disk, I made this file long ago (using TeX).
+
 ### veraPDFHiRes.pdf
 
 - Linearized
