@@ -12,6 +12,7 @@ Files
 From <https://www.researchgate.net/publication/270511438_The_CIE_1997_Colour_Appearance_Model_CIECAM97s>
 
 - Contains several `/Filter [/ASCII85Decode /LZWDecode]`
+- Contains CFF font using the built-in Standard encoding
 
 ### 7535-7pt.pdf
 
@@ -23,6 +24,7 @@ From <https://www.dkriesel.com/_media/blog/2013/7535-7pt.pdf>
 ### Bakke2010a.pdf
 
 Contains a float defaultWidthX in an embedded CFF font.
+The CFF glyphs contain opcodes 255 with negative values.
 
 From
 <http://english.hig.no/content/download/28956/331069/file/Bakke2010a.pdf>.
