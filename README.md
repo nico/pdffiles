@@ -9,10 +9,10 @@ Files
 
 ### 2ThestructureoftheCIE1997ColourAppearanceModelCIECAM97s.pdf
 
-From <https://www.researchgate.net/publication/270511438_The_CIE_1997_Colour_Appearance_Model_CIECAM97s>
-
 - Contains several `/Filter [/ASCII85Decode /LZWDecode]`
 - Contains CFF font using the built-in Standard encoding
+
+From <https://www.researchgate.net/publication/270511438_The_CIE_1997_Colour_Appearance_Model_CIECAM97s>
 
 ### 7535-7pt.pdf
 
