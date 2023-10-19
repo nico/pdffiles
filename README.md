@@ -7,6 +7,12 @@ Various PDF files for testing PDF readers.
 Files
 -----
 
+### 0000008.pdf
+
+* Contains images with `/Filter` `/CCITTFaxDecode` in a document in the wild
+
+From 0000.zip in <https://downloads.digitalcorpora.org/corpora/files/CC-MAIN-2021-31-PDF-UNTRUNCATED/>
+
 ### 2ThestructureoftheCIE1997ColourAppearanceModelCIECAM97s.pdf
 
 - Contains several `/Filter [/ASCII85Decode /LZWDecode]`
