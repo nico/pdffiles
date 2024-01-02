@@ -7,6 +7,12 @@ Various PDF files for testing PDF readers.
 Files
 -----
 
+### 000582.pdf
+
+* Contains images with `/Filter` `/RunLengthDecode` in a document in the wild
+
+From <https://github.com/pdf-raku/stillhq.com-pdfdb>
+
 ### 0000008.pdf
 
 * Contains images with `/Filter` `/CCITTFaxDecode` in a document in the wild
