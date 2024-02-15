@@ -1,5 +1,5 @@
-jpegfiles
-=========
+pdffiles
+========
 
 Various PDF files for testing PDF readers.
 
